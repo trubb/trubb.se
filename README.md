@@ -1,2 +1,2 @@
 # trubb.se
-A smal personal website
+A small personal website listing experience, education, hobby projects and achievements
